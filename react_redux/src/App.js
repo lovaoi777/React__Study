@@ -1,9 +1,11 @@
-
-import './App.css';
+import CounterContainer from "./container/CounterContainer";
 
 function App() {
   return (
-    <div></div>
+  <div>
+
+    <CounterContainer />
+  </div>
   );
 }
 
